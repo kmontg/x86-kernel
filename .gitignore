@@ -2,3 +2,5 @@
 *.bin
 *.iso
 .vagrant
+*.lock
+target
